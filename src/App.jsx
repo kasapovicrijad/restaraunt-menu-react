@@ -1,11 +1,11 @@
-import Title from "./assets/components/Title/Title";
-import FoodsListPage from "./assets/components/pages/FoodsListPage";
+import Title from "./components/Title/Title";
+import FoodMenu from "./components/pages/FoodsList";
 
 function App() {
   return (
     <div className="App">
      <Title></Title>
-     <FoodsListPage></FoodsListPage>
+     <FoodMenu></FoodMenu>
     </div>
   );
 }

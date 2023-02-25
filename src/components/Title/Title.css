@@ -14,3 +14,11 @@
     margin-bottom: 4rem;
     font-weight: 400;
 }
+
+.mouse{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 20%;
+}
