@@ -1,5 +1,5 @@
-import Title from "./components/Title/Title";
-import FoodMenu from "./components/pages/FoodsList";
+import Title from "./components/pages/Title/Title";
+import FoodMenu from "./components/FoodMenu";
 
 function App() {
   return (
