@@ -1,4 +1,4 @@
-import Title from "./components/pages/Title/Title";
+import Title from "./pages/Title";
 import FoodMenu from "./components/FoodMenu";
 
 function App() {
